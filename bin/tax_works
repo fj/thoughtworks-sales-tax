@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+$: << File.join(File.dirname(__FILE__), '..', 'lib')
+require 'tax_works'
+
+begin
+  TaxWorks.load_from(ARGF)
+rescue
+  warn "Couldn't load #{ARGF.filename}. Are you sure it's in the right format?"
+end

@@ -1,0 +1,12 @@
+1 partridge in a pear tree at 30.00
+2 turtle doves at 30.00
+3 french hens at 30.00
+4 calling birds at 60.00
+5 golden rings at 60.00
+6 geese-a-laying at 67.89
+7 swans-a-swimming at 901.23
+8 maids-a-milking at 1234.45
+9 ladies dancing at 2345.56
+10 lords-a-leaping at 1000.00
+11 chocolate pipers piping at 1000.00
+12 imported chocolate drummers drumming at 1000.00
